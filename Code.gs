@@ -1,4 +1,4 @@
-var BASE_DOMAIN = "meet.jit.si";
+var BASE_DOMAIN = "https://fi-hel-2.jitsi.rocks/";
 var MORE_NUMBERS_LINK = "https://" + BASE_DOMAIN + "/static/dialInInfo.html?room=";
 var PHONE_NUMBERS_LIST_LINK = "https://api.jitsi.net/phoneNumberList?calendar=true";
 var CONF_MAPPER_LINK = "https://api.jitsi.net/conferenceMapper?conference=";
