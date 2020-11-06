@@ -1,0 +1,6 @@
+ {
+    "name": "Jitsi Custom Test",
+    "version": "1.0",
+    "description": "Test for a Private Jitsi server",
+    "manifest_version": 2
+  }
